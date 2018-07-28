@@ -1,0 +1,23 @@
+{
+  "name": "p2p-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "yjs": "^12.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alankyshum/angel-hack-p2p-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alankyshum/angel-hack-p2p-editor/issues"
+  },
+  "homepage": "https://github.com/alankyshum/angel-hack-p2p-editor#readme"
+}
